@@ -1,4 +1,13 @@
+body {
+    background-color: bisque;
+}
 h1 {
     text-align: center;
-    color: pink;
+    color: #B0775F;
+}
+img {
+    max-width: 400px;
+}
+.container {
+    text-align: center;
 }
